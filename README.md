@@ -1,9 +1,9 @@
 # PRO401 – Actividad Semana 3
 
-Alumno: Marcelo Banchieri
-Asignatura: Taller de Aplicaciones Móviles
-Docente: Iván Ayala Ayala
-Fecha: 01-09-2025
+- Alumno: Marcelo Banchieri
+- Asignatura: Taller de Aplicaciones Móviles
+- Docente: Iván Ayala Ayala
+- Fecha: 01-09-2025
 
 ## Descripción
 
